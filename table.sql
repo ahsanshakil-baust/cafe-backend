@@ -8,3 +8,5 @@ create table user(
     role varchar(20),
     UNIQUE (email)
 )
+
+insert into user(name,contactNumber,eamil,password,status,role) values()
